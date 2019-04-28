@@ -1,6 +1,4 @@
 
-
-
 <?php
 function bacaHTML($url){
          // inisialisasi CURL
