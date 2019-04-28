@@ -15,7 +15,7 @@ function bacaHTML($url){
     }
 
     // Grabbing from Mediafire.com
-    $mediafire_HTML =  bacaHTML('https://www.mediafire.com/file/1kwoat566i8f52f/Sub_Urban_-_Cradles.mp3'); // url content
+    $mediafire_HTML =  bacaHTML('https://www.mediafire.com/file/1kwoat566i8f52f/Sub+Urban+-+Cradles.mp3'); // url content
     
     // Mengambil direct link download
     $mediafire_geturl = explode('                        href="', $mediafire_HTML); // tag awal
