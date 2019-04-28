@@ -1,5 +1,7 @@
-
 <?php
+// @author by Lugi
+http://fb.com/www.Lugi23 //
+
 function bacaHTML($url){
          // inisialisasi CURL
          $data = curl_init();
